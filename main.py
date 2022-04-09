@@ -1,8 +1,8 @@
 import random, string
 
-print("Discord Nitro Generator + Checker V1.0 - Firestroke & Rxst")
+print("Discord Nitro Generator + Checker V1.0 - Space ")
 print("'")
-print("Discord Server: https://discord.gg/TtJWJydQdH")
+print("Discord Server: https://discord.gg/RNYdgeCnNe")
 
 amount = int(input('Amount of nitro codes to generate: '))
 value = 1
